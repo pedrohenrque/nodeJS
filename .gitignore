@@ -1,4 +1,6 @@
-db/app.db
+db/*.db
 node_modules
 .env
 .env.test
+dist
+build
